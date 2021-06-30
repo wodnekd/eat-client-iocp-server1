@@ -1,0 +1,360 @@
+[2021-6-9 22:41:48] WSAStartup Success
+[2021-6-9 22:41:48] Socket Init Success
+[2021-6-9 22:41:48] listen Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] AcceptEx Success
+[2021-6-9 22:41:48] Thread Create 8
+[2021-6-9 22:41:56] INFO Success
+[2021-6-9 22:41:56] Active_Session : 1
+[2021-6-9 22:41:56] InActive_Session : 29
+[2021-6-9 22:41:56] WSARecv : 604
+[2021-6-9 22:41:56] Accept Success
+[2021-6-9 22:42:4] INFO Success
+[2021-6-9 22:42:4] Active_Session : 2
+[2021-6-9 22:42:4] InActive_Session : 28
+[2021-6-9 22:42:4] WSARecv : 616
+[2021-6-9 22:42:4] Accept Success
+[2021-6-9 22:42:9] WSARecv : 616
+[2021-6-9 22:42:12] WSARecv : 604
+[2021-6-9 22:42:20] Is Not Room User
+[2021-6-9 22:42:20] Game_REQ Room Join
+[2021-6-9 22:42:20] WSARecv : 616
+[2021-6-9 22:42:21] Is Not Room User
+[2021-6-9 22:42:21] Game_REQ Room Join
+[2021-6-9 22:42:21] WSARecv : 604
+[2021-6-9 22:43:10] INFO Success
+[2021-6-9 22:43:10] Active_Session : 3
+[2021-6-9 22:43:10] InActive_Session : 27
+[2021-6-9 22:43:10] WSARecv : 612
+[2021-6-9 22:43:10] Accept Success
+[2021-6-9 22:43:17] INFO Success
+[2021-6-9 22:43:17] Active_Session : 4
+[2021-6-9 22:43:17] InActive_Session : 26
+[2021-6-9 22:43:17] WSARecv : 596
+[2021-6-9 22:43:17] Accept Success
+[2021-6-9 22:43:30] WSARecv : 612
+[2021-6-9 22:43:58] WSAStartup Success
+[2021-6-9 22:43:58] Socket Init Success
+[2021-6-9 22:43:58] listen Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] AcceptEx Success
+[2021-6-9 22:43:58] Thread Create 8
+[2021-6-9 22:44:6] INFO Success
+[2021-6-9 22:44:6] Active_Session : 1
+[2021-6-9 22:44:6] InActive_Session : 29
+[2021-6-9 22:44:6] WSARecv : 620
+[2021-6-9 22:44:6] Accept Success
+[2021-6-9 22:44:9] INFO Success
+[2021-6-9 22:44:9] Active_Session : 2
+[2021-6-9 22:44:9] InActive_Session : 28
+[2021-6-9 22:44:9] WSARecv : 616
+[2021-6-9 22:44:9] Accept Success
+[2021-6-9 22:44:12] WSARecv : 616
+[2021-6-9 22:44:15] WSARecv : 620
+[2021-6-9 22:44:26] Is Not Room User
+[2021-6-9 22:44:26] Game_REQ Room Join
+[2021-6-9 22:44:26] WSARecv : 616
+[2021-6-9 22:44:27] Is Not Room User
+[2021-6-9 22:44:27] Game_REQ Room Join
+[2021-6-9 22:44:27] WSARecv : 620
+[2021-6-9 22:44:35] WSARecv : 616
+[2021-6-9 22:44:35] WSARecv : 620
+[2021-6-9 22:44:36] WSARecv : 616
+[2021-6-9 22:44:36] WSARecv : 616
+[2021-6-9 22:44:37] WSARecv : 620
+[2021-6-9 22:44:37] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:45] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:46] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:48] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:44:49] WSARecv : 620
+[2021-6-9 22:45:28] AcceptEx Success
+[2021-6-9 22:45:28] Client End
+[2021-6-9 22:46:9] WSAStartup Success
+[2021-6-9 22:46:9] Socket Init Success
+[2021-6-9 22:46:9] listen Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] AcceptEx Success
+[2021-6-9 22:46:9] Thread Create 8
+[2021-6-9 22:46:17] INFO Success
+[2021-6-9 22:46:17] Active_Session : 1
+[2021-6-9 22:46:17] InActive_Session : 29
+[2021-6-9 22:46:17] WSARecv : 552
+[2021-6-9 22:46:17] Accept Success
+[2021-6-9 22:46:19] INFO Success
+[2021-6-9 22:46:19] Active_Session : 2
+[2021-6-9 22:46:19] InActive_Session : 28
+[2021-6-9 22:46:19] WSARecv : 616
+[2021-6-9 22:46:19] Accept Success
+[2021-6-9 22:46:23] INFO Success
+[2021-6-9 22:46:23] Active_Session : 3
+[2021-6-9 22:46:23] InActive_Session : 27
+[2021-6-9 22:46:23] WSARecv : 584
+[2021-6-9 22:46:23] Accept Success
+[2021-6-9 22:46:24] INFO Success
+[2021-6-9 22:46:24] Active_Session : 4
+[2021-6-9 22:46:24] InActive_Session : 26
+[2021-6-9 22:46:24] WSARecv : 592
+[2021-6-9 22:46:24] Accept Success
+[2021-6-9 22:46:26] WSARecv : 552
+[2021-6-9 22:46:30] WSARecv : 616
+[2021-6-9 22:46:43] WSARecv : 592
+[2021-6-9 22:46:58] WSARecv : 584
+[2021-6-9 22:47:4] Is Not Room User
+[2021-6-9 22:47:4] Game_REQ Room Join
+[2021-6-9 22:47:4] WSARecv : 552
+[2021-6-9 22:47:5] Is Not Room User
+[2021-6-9 22:47:5] Game_REQ Room Join
+[2021-6-9 22:47:5] WSARecv : 616
+[2021-6-9 22:47:16] Game_REQ :$
+[2021-6-9 22:47:16] WSARecv : 552
+[2021-6-9 22:47:20] WSARecv : 552
+[2021-6-9 22:47:56] AcceptEx Success
+[2021-6-9 22:47:56] Client End
+[2021-6-9 22:47:58] AcceptEx Success
+[2021-6-9 22:47:58] Client End

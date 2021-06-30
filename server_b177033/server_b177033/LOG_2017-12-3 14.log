@@ -1,0 +1,86 @@
+[2017-12-3 14:56:24] WSAStartup Success
+[2017-12-3 14:56:24] Socket Init Success
+[2017-12-3 14:56:24] listen Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] AcceptEx Success
+[2017-12-3 14:56:24] Thread Create 8
+[2017-12-3 14:56:42] INFO Success
+[2017-12-3 14:56:42] Active_Session : 1
+[2017-12-3 14:56:42] InActive_Session : 29
+[2017-12-3 14:56:42] WSARecv : 488
+[2017-12-3 14:56:42] Accept Success
+[2017-12-3 14:56:48] AcceptEx Success
+[2017-12-3 14:56:48] Client End
+[2017-12-3 14:57:1] INFO Success
+[2017-12-3 14:57:1] Active_Session : 1
+[2017-12-3 14:57:1] InActive_Session : 29
+[2017-12-3 14:57:1] WSARecv : 540
+[2017-12-3 14:57:1] Accept Success
+[2017-12-3 14:57:6] WSARecv : 540
+[2017-12-3 14:57:9] INFO Success
+[2017-12-3 14:57:9] Active_Session : 2
+[2017-12-3 14:57:9] InActive_Session : 28
+[2017-12-3 14:57:9] WSARecv : 452
+[2017-12-3 14:57:9] Accept Success
+[2017-12-3 14:57:15] Is Not Room User
+[2017-12-3 14:57:15] Game_REQ Room Join
+[2017-12-3 14:57:15] WSARecv : 540
+[2017-12-3 14:57:20] WSARecv : 540
+[2017-12-3 14:57:24] WSARecv : 540
+[2017-12-3 14:57:24] WSARecv : 540
+[2017-12-3 14:57:35] WSARecv : 452
+[2017-12-3 14:57:38] Is Not Room User
+[2017-12-3 14:57:38] Game_REQ Room Join
+[2017-12-3 14:57:38] WSARecv : 452
+[2017-12-3 14:57:43] WSARecv : 452
+[2017-12-3 14:57:47] WSARecv : 452
+[2017-12-3 14:57:47] WSARecv : 452
+[2017-12-3 14:58:14] AcceptEx Success
+[2017-12-3 14:58:14] Client End
+[2017-12-3 14:58:19] AcceptEx Success
+[2017-12-3 14:58:19] Client End
+[2017-12-3 14:58:54] INFO Success
+[2017-12-3 14:58:54] Active_Session : 2
+[2017-12-3 14:58:54] InActive_Session : 28
+[2017-12-3 14:58:54] WSARecv : 544
+[2017-12-3 14:58:54] Accept Success
+[2017-12-3 14:59:15] AcceptEx Success
+[2017-12-3 14:59:15] Client End
+[2017-12-3 14:59:18] INFO Success
+[2017-12-3 14:59:18] Active_Session : 2
+[2017-12-3 14:59:18] InActive_Session : 28
+[2017-12-3 14:59:18] WSARecv : 560
+[2017-12-3 14:59:18] Accept Success
+[2017-12-3 14:59:26] WSARecv : 560
+[2017-12-3 14:59:31] Is Not Room User
+[2017-12-3 14:59:31] Game_REQ Room Join
+[2017-12-3 14:59:31] WSARecv : 560
+[2017-12-3 14:59:38] WSARecv : 560

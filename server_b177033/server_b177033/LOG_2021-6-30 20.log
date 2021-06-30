@@ -1,0 +1,46 @@
+[2021-6-30 20:2:28] WSAStartup Success
+[2021-6-30 20:2:28] Socket Init Success
+[2021-6-30 20:2:28] listen Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] AcceptEx Success
+[2021-6-30 20:2:28] Thread Create 8
+[2021-6-30 20:2:36] INFO Success
+[2021-6-30 20:2:36] Active_Session : 1
+[2021-6-30 20:2:36] InActive_Session : 29
+[2021-6-30 20:2:36] WSARecv : 628
+[2021-6-30 20:2:36] Accept Success
+[2021-6-30 20:2:42] WSARecv : 628
+[2021-6-30 20:2:46] Is Not Room User
+[2021-6-30 20:2:46] Game_REQ Room Join
+[2021-6-30 20:2:46] WSARecv : 628
+[2021-6-30 20:2:51] WSARecv : 628
+[2021-6-30 20:2:53] AcceptEx Success
+[2021-6-30 20:2:53] Client End

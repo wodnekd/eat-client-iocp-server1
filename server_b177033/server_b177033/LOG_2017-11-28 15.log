@@ -1,0 +1,130 @@
+[2017-11-28 15:41:13] WSAStartup Success
+[2017-11-28 15:41:13] Socket Init Success
+[2017-11-28 15:41:13] listen Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] AcceptEx Success
+[2017-11-28 15:41:13] Thread Create 8
+[2017-11-28 15:41:16] INFO Success
+[2017-11-28 15:41:16] Active_Session : 1
+[2017-11-28 15:41:16] InActive_Session : 29
+[2017-11-28 15:41:16] WSARecv : 492
+[2017-11-28 15:41:16] Accept Success
+[2017-11-28 15:41:19] LoginFaill
+[2017-11-28 15:41:19] WSARecv : 492
+[2017-11-28 15:41:19] LoginFaill
+[2017-11-28 15:41:19] WSARecv : 492
+[2017-11-28 15:41:26] WSARecv : 492
+[2017-11-28 15:41:30] Is Not Room User
+[2017-11-28 15:41:30] Game_REQ Room Join
+[2017-11-28 15:41:30] WSARecv : 492
+[2017-11-28 15:47:54] WSAStartup Success
+[2017-11-28 15:47:54] Socket Init Success
+[2017-11-28 15:47:54] listen Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] AcceptEx Success
+[2017-11-28 15:47:54] Thread Create 8
+[2017-11-28 15:47:55] INFO Success
+[2017-11-28 15:47:55] Active_Session : 1
+[2017-11-28 15:47:55] InActive_Session : 29
+[2017-11-28 15:47:55] WSARecv : 500
+[2017-11-28 15:47:55] Accept Success
+[2017-11-28 15:48:0] WSARecv : 500
+[2017-11-28 15:48:4] Is Not Room User
+[2017-11-28 15:48:4] Game_REQ Room Join
+[2017-11-28 15:48:4] WSARecv : 500
+[2017-11-28 15:48:10] WSAStartup Success
+[2017-11-28 15:48:10] Socket Init Success
+[2017-11-28 15:48:10] listen Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] AcceptEx Success
+[2017-11-28 15:48:10] Thread Create 8
+[2017-11-28 15:48:12] INFO Success
+[2017-11-28 15:48:12] Active_Session : 1
+[2017-11-28 15:48:12] InActive_Session : 29
+[2017-11-28 15:48:12] WSARecv : 496
+[2017-11-28 15:48:12] Accept Success
+[2017-11-28 15:48:17] WSARecv : 496
