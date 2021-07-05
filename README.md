@@ -30,6 +30,7 @@ iocp server
 + CUserManager.h
 + CUserSession.h
 + CThread.h
+
 >> main 함수
 
 ![image](https://user-images.githubusercontent.com/86718283/124422520-6096d100-dd9e-11eb-8b1f-8fc679e11903.png)
@@ -38,6 +39,15 @@ iocp server
 3. iocp 연결
 4. SESSION 초기화 (userManager 생성, RoomManager 생성)
 5. CreateSeccsion ( 사용, AcceptEx 접속받기)
+
+![image](https://user-images.githubusercontent.com/86718283/124497846-746e2180-ddf6-11eb-9e4c-fb4e3acb51ce.png)
+
+6. WSARecv
+7. CircleQueue 
+8. Parsing
+9. CircleQueue
+10. WSASend
+
 
 >>CDatabase.h
 
