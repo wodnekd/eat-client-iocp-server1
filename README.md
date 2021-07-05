@@ -191,6 +191,25 @@ win32
 
 -----------------
 
+>> 로그인 구현
 
+![image](https://user-images.githubusercontent.com/86718283/124473188-f8fe7700-ddd9-11eb-9bd4-3158f7bce1f5.png)
+1. 회원 가입 구현 (다이얼로그 실행)
+2. 로그인 구현
 
+>> 로비 구현
 
+![image](https://user-images.githubusercontent.com/86718283/124473633-86da6200-ddda-11eb-99a5-987dc7731d7e.png)
+
+1. 채팅창 구현
+2. 대기실 유저 nickname 구현
+3. 랭킹 전적 구현
+4. 애니메이션으로 케릭터 움직임 구현
+
+>> 게임 구현
+
+![image](https://user-images.githubusercontent.com/86718283/124473801-b4bfa680-ddda-11eb-81b3-4636066b7ee6.png)
+
+1. 채팅창 구현
+2. 유저 케릭터, 이름 정보 구현
+3. 오목 게임 구현
